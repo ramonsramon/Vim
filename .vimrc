@@ -21,6 +21,8 @@ set nobackup
 set undodir=~/.vim/undodir
 set undofile
 set completeopt=menuone,noinsert,noselect
+set bg=dark
+set cursorline
 
 "Vim mappings
 let mapleader = " "
