@@ -1,3 +1,6 @@
 ## Overview
 
-The `.vimrc` file I use.
+My vim and nvim setup
+
+- vim would be .vimrc
+- nvim would be everything else
